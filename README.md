@@ -4,9 +4,9 @@ A simple database based on SQLite written in C.
 
 ## Usage
 Download the repl.c file and put in a directory.
-Open the terminal and follow the commands below.
-<code>cd YOUR_DIRECTORY_NAME</code>
-<code>gcc repl.c -o db</code>
+Open the terminal and follow the commands below.<br>
+<code>cd YOUR_DIRECTORY_NAME</code><br>
+<code>gcc repl.c -o db</code><br>
 <code>./db FILENAME.db</code>
 
 ## Features
