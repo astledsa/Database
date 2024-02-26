@@ -10,11 +10,11 @@ Open the terminal and follow the commands below.<br>
 > <code>./db FILENAME.db</code>
 
 ## Features
-- <code>select</code>[prints all the rows]
-- <code>insert ID USERNAME EMAIL</code>[inserts a row]
-- <code>.bTree</code>[prints a Tree representation of the database]
-- <code>.constants</code>[prints some important headers]
-- <code>.exit</code>[saves the database on disk and quits]
+- <code>select //prints all the rows</code>
+- <code>insert ID USERNAME EMAIL //inserts a row</code>
+- <code>.bTree //prints a Tree representation of the database</code>
+- <code>.constants //prints some important headers</code>
+- <code>.exit //saves the database on disk and quits</code>
 
 ## To Dos
 - Deletion
